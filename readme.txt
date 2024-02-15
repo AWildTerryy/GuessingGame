@@ -2,11 +2,11 @@ This is a simple guess the picture game using HTML CSS and Javascript. There are
 
 Sample images:
 
- 
+https://gyazo.com/ceb8f330b0cf3d7f0e0baf3e9c0c8163
 
 index.html landing page
 
- 
+https://gyazo.com/9564b393cdaaf1eda24f92a01eda0b4a
 
 game.html example
 
